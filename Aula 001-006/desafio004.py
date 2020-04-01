@@ -1,0 +1,11 @@
+valor = input('Digite algo: ')
+
+print('')
+print('É numérico? {}', valor.isnumeric())
+print('É alfanumérico? {}', valor.isalnum())
+print('É alfabético {}', valor.isalpha())
+print('É decimal? {}', valor.isdecimal())
+print('É minúsculo? {}', valor.islower())
+print('Pode ser impresso? {}', valor.isprintable())
+print('É espaço? {}', valor.isspace())
+print('É maiúsculo? {}', valor.isupper())
