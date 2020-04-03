@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43cabe-e135-4725-90ac-9e0da2d754af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 007/aula07a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 001-006/desafio004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 001-006/desafio01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 001-006/desafio02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 001-006/desafio03.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +37,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZvACTFLXNMX5qimAv6Hqroy7GV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.desafio004">
-    <configuration name="aula06a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio013">
+    <configuration name="desafio009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoemVideo\Aula 001-006\aula06a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula06b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoemVideo\Aula 001-006\aula06b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoemVideo\Aula 001-006\desafio004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoemVideo\Aula 001-006\desafio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoemVideo\Aula 001-006\ex001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio004" />
-        <item itemvalue="Python.aula06b" />
-        <item itemvalue="Python.aula06a" />
-        <item itemvalue="Python.desafio03" />
-        <item itemvalue="Python.ex001" />
+        <item itemvalue="Python.desafio013" />
+        <item itemvalue="Python.desafio012" />
+        <item itemvalue="Python.desafio011" />
+        <item itemvalue="Python.desafio10" />
+        <item itemvalue="Python.desafio009" />
       </list>
     </recent_temporary>
   </component>
@@ -164,31 +180,34 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585745475618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585745475618" />
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1585746025353">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1585884504108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585746025353" />
-    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1585746025353">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585884504108" />
+    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1585884504108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585746025353" />
-    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1585746025353">
+    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585884504108" />
+    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1585884504108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585746025353" />
-    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1585746025353">
+    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585884504108" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1585884504108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585746025353" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585743780840">
+    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585884504108" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585876963310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585743780840" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585876963310" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585744468540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
