@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43cabe-e135-4725-90ac-9e0da2d754af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 009/aula09a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 009/aula09b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 009/aula09c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 009/aula09d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/desafio035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 010/aula10a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 010/aula10b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,29 +50,8 @@
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\Desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio027">
-    <configuration name="aula09b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoemVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula 009" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 009/aula09b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio033">
+    <configuration name="desafio030" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio030.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio031.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio026.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +126,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio027.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio033.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio034.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio027" />
-        <item itemvalue="Python.desafio026" />
-        <item itemvalue="Python.aula09b" />
-        <item itemvalue="Python.desafio025" />
-        <item itemvalue="Python.desafio024" />
+        <item itemvalue="Python.desafio033" />
+        <item itemvalue="Python.desafio034" />
+        <item itemvalue="Python.desafio032" />
+        <item itemvalue="Python.desafio031" />
+        <item itemvalue="Python.desafio030" />
       </list>
     </recent_temporary>
   </component>
@@ -187,26 +187,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586048683099" />
-    <state width="1500" height="202" key="GridCell.Tab.0.bottom" timestamp="1586138983643">
+    <state width="745" height="202" key="GridCell.Tab.0.bottom" timestamp="1586144352428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586055310414" />
-    <state width="1500" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586138983643" />
-    <state width="1500" height="202" key="GridCell.Tab.0.center" timestamp="1586138983643">
+    <state width="745" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586144352428" />
+    <state width="745" height="202" key="GridCell.Tab.0.center" timestamp="1586144352428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586055310414" />
-    <state width="1500" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586138983643" />
-    <state width="1500" height="202" key="GridCell.Tab.0.left" timestamp="1586138983643">
+    <state width="745" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586144352428" />
+    <state width="745" height="202" key="GridCell.Tab.0.left" timestamp="1586144352428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586055310414" />
-    <state width="1500" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586138983643" />
-    <state width="1500" height="202" key="GridCell.Tab.0.right" timestamp="1586138983643">
+    <state width="745" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586144352428" />
+    <state width="745" height="202" key="GridCell.Tab.0.right" timestamp="1586144352428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586055310414" />
-    <state width="1500" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586138983643" />
+    <state width="745" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586144352428" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585887299393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
