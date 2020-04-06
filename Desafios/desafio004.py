@@ -1,5 +1,9 @@
+'''
+Desafios aula 6
+Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todos
+as informações possíveis sobre ele.
+'''
 valor = input('Digite algo: ')
-
 print('')
 print('É numérico? {}', valor.isnumeric())
 print('É alfanumérico? {}', valor.isalnum())

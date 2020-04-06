@@ -12,4 +12,5 @@ if velocidadeCarro < limiteVelocidade:
 elif velocidadeCarro == limiteVelocidade:
     print('Você está dentro do limite de velocidade, mas cuidado!')
 else:
-    print('Você ultrapassou o limite de velocidade, terá que pagar um multa de R$ {:.2f}'.format(multaPorKm*(velocidadeCarro - limiteVelocidade)))
+    print('Você ultrapassou o limite de velocidade, terá que pagar um multa de R$ {:.2f}'
+          .format(multaPorKm*(velocidadeCarro - limiteVelocidade)))
