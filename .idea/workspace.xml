@@ -2,56 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43cabe-e135-4725-90ac-9e0da2d754af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/desafio015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula011-CoresNoTerminal/aula011a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula011-CoresNoTerminal/aula011b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 001-006/aula06a.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula001-006/aula06a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 001-006/aula06b.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula001-006/aula06b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 001-006/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula001-006/ex000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 001-006/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula001-006/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 001-006/teste01.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula001-006/teste01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 007/aula07a.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula007-OperadoresAritmeticos/aula07a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/desafio033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/desafio033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 008/aula08a.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula008-UtilizandoModulos/aula08a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 008/aula08b.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula008-UtilizandoModulos/aula08b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 008/aula08c.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula008-UtilizandoModulos/aula08c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 008/aula08d.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula008-UtilizandoModulos/aula08d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 009/aula09a.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 009/aula09b.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 009/aula09c.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 009/aula09d.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 010/aula10a.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula010-CondicoesParte1/aula10a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 010/aula10b.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula010-CondicoesParte1/aula10b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/aula012-CondicoesAninhadas/aula012a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio001.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio002.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio003.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio004.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio005.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio006.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio007.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio008.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio009.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio010.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio011.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio012.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio013.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio014.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio015.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio016.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio017.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio018.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio019.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio020.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio021.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio021.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio021.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio022.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio023.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio024.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio025.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio026.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio027.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio028.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio029.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio030.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio031.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio032.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio033.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio034.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/desafio035.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/desafios/desafio035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,17 +74,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\desafios" />
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula010-CondicoesParte1" />
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula009-ManipulandoTexto" />
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula008-UtilizandoModulos" />
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula007-OperadoresAritmeticos" />
-      <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula001-006" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\Desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula011b">
+  <component name="RunManager" selected="Python.desafio036">
     <configuration name="aula011a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula012a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,32 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/aula012-CondicoesAninhadas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoemVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/aula012-CondicoesAninhadas/aula012a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +160,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/desafio015.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\desafios\desafio015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio036.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio036" />
+        <item itemvalue="Python.aula012a" />
         <item itemvalue="Python.aula011b" />
         <item itemvalue="Python.aula011a" />
         <item itemvalue="Python.desafio015" />
-        <item itemvalue="Python.desafio014" />
-        <item itemvalue="Python.desafio012" />
       </list>
     </recent_temporary>
   </component>
@@ -233,30 +221,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586211942963" />
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1586214612190">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1586215930820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586214612190" />
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215930820" />
     <state width="745" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1586214612190">
+    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1586215930820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586214612190" />
+    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215930820" />
     <state width="745" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1586214612190">
+    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1586215930820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586214612190" />
+    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215930820" />
     <state width="745" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1586214612190">
+    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1586215930820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586214612190" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215930820" />
     <state width="745" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585887299393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585887299393" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586215501853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215501853" />
     <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586208375050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
