@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43cabe-e135-4725-90ac-9e0da2d754af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/aula013-EstruturaDeRepeticaoFor/aula013a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/aula013-EstruturaDeRepeticaoFor/aula013b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/aula013-EstruturaDeRepeticaoFor/aula013c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio052b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/desafios/desafio056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09c.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo1-fundamentos/aula009-ManipulandoTexto/aula09c.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Desafios" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,8 +63,8 @@
       <recent name="C:\Users\marce\PycharmProjects\CursoEmVideo-Python\mundo1-fundamentos\aula008-UtilizandoModulos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio044">
-    <configuration name="desafio041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio056">
+    <configuration name="desafio052b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio052b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio042.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio043.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio044" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio044.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio045.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/desafios/desafio056.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio044" />
-        <item itemvalue="Python.desafio045" />
-        <item itemvalue="Python.desafio043" />
-        <item itemvalue="Python.desafio042" />
-        <item itemvalue="Python.desafio041" />
+        <item itemvalue="Python.desafio056" />
+        <item itemvalue="Python.desafio055" />
+        <item itemvalue="Python.desafio054" />
+        <item itemvalue="Python.desafio053" />
+        <item itemvalue="Python.desafio052b" />
       </list>
     </recent_temporary>
   </component>
@@ -190,43 +196,45 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586211942963">
+    <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586267892194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586211942963" />
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1586220755125">
+    <state x="523" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586267892194" />
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1586293104760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586220755125" />
-    <state width="745" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1586220755124">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586293104760" />
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586278475268" />
+    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1586293104760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586220755124" />
-    <state width="745" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1586220755124">
+    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586293104760" />
+    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586278475268" />
+    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1586293104760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586220755124" />
-    <state width="745" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1586220755124">
+    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586293104760" />
+    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586278475268" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1586293104760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586220755124" />
-    <state width="745" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586144785198" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1585887299393">
+    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586293104760" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586278475268" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1586271553931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1585887299393" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586271553931" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586266476534" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1586215501853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586215501853" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586216138565">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586287343150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586216138565" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586137138020" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586287343150" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586266441238" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586049661743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

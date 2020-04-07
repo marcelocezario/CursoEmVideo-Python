@@ -1,4 +1,4 @@
-#transformação string
+2#transformação string
 frase = 'Curso em Vídeo Python'
 
 substituirString = frase.replace('Python', 'Android')
